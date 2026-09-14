@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "courseName": "React.js",
+        "instructor": "Jonas Schmedtmann",
+        "price": 1800,
+        "duration": "8 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "courseName": "JavaScript",
+        "instructor": "Brad Traversy",
+        "price": 1500,
+        "duration": "10 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "courseName": "TypeScript",
+        "instructor": "Matt Pocock",
+        "price": 1700,
+        "duration": "6 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "courseName": "Node.js",
+        "instructor": "Andrew Mead",
+        "price": 1900,
+        "duration": "9 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "courseName": "MongoDB",
+        "instructor": "Mosh Hamedani",
+        "price": 1400,
+        "duration": "5 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 6,
+        "courseName": "Next.js",
+        "instructor": "Lee Robinson",
+        "price": 2200,
+        "duration": "8 Weeks",
+        "level": "Advanced",
+        "courseImg": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 7,
+        "courseName": "HTML & CSS",
+        "instructor": "Kevin Powell",
+        "price": 1000,
+        "duration": "6 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 8,
+        "courseName": "Tailwind CSS",
+        "instructor": "Steve Kinney",
+        "price": 1200,
+        "duration": "4 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 9,
+        "courseName": "Express.js",
+        "instructor": "Hitesh Choudhary",
+        "price": 1600,
+        "duration": "6 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 10,
+        "courseName": "Git & GitHub",
+        "instructor": "Kunal Kushwaha",
+        "price": 900,
+        "duration": "3 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 11,
+        "courseName": "Python Programming",
+        "instructor": "Angela Yu",
+        "price": 1600,
+        "duration": "8 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 12,
+        "courseName": "Java Programming",
+        "instructor": "Tim Buchalka",
+        "price": 1800,
+        "duration": "10 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 13,
+        "courseName": "SQL & Database",
+        "instructor": "Colt Steele",
+        "price": 1300,
+        "duration": "5 Weeks",
+        "level": "Beginner",
+        "courseImg": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 14,
+        "courseName": "REST API Development",
+        "instructor": "Traversy Media",
+        "price": 1500,
+        "duration": "6 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 15,
+        "courseName": "Full Stack Web Development",
+        "instructor": "Maximilian Schwarzmüller",
+        "price": 2800,
+        "duration": "12 Weeks",
+        "level": "Advanced",
+        "courseImg": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 16,
+        "courseName": "React Native",
+        "instructor": "William Candillon",
+        "price": 2100,
+        "duration": "8 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 17,
+        "courseName": "Data Structures & Algorithms",
+        "instructor": "Abdul Bari",
+        "price": 2000,
+        "duration": "10 Weeks",
+        "level": "Advanced",
+        "courseImg": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 18,
+        "courseName": "Docker & Containers",
+        "instructor": "Bret Fisher",
+        "price": 1700,
+        "duration": "5 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 19,
+        "courseName": "AWS Cloud Fundamentals",
+        "instructor": "Stephane Maarek",
+        "price": 2300,
+        "duration": "8 Weeks",
+        "level": "Intermediate",
+        "courseImg": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 20,
+        "courseName": "Web Security",
+        "instructor": "PortSwigger Academy",
+        "price": 1900,
+        "duration": "7 Weeks",
+        "level": "Advanced",
+        "courseImg": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80"
+    }
+]
